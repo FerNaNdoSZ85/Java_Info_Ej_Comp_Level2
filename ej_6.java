@@ -13,7 +13,6 @@ public class ej_6 {
             this.valorHora = valorHora;
         }
     }
-
     public static void main(String[] args) {
 
         HashSet<empleados> listaEmpleados = new HashSet<>();
